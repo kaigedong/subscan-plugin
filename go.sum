@@ -24,13 +24,13 @@ github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T
 github.com/huandu/xstrings v1.3.1/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
 github.com/huandu/xstrings v1.3.2/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
-github.com/itering/scale.go v1.1.51/go.mod h1:Eg8T/07SKybkN9E1LmiEdSN/pLtV4rZDN9zuj486Gbs=
-github.com/itering/substrate-api-rpc v0.4.12 h1:ljKMtOEGACsE8I5C8qbfdh6QsagABwIH37333z6Fyys=
-github.com/itering/substrate-api-rpc v0.4.12/go.mod h1:mGghcOAxSgjzmiLoiG73RUhpk96OsLo05lfJZxkLQ14=
 github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
 github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
 github.com/jpillora/backoff v1.0.0 h1:uvFg412JmmHBHw7iwprIxkPMI+sGQ4kzOWsMeHnm2EA=
 github.com/jpillora/backoff v1.0.0/go.mod h1:J/6gKK9jxlEcS3zixgDgUAsiuZ7yrSoa/FX5e0EB2j4=
+github.com/kaigedong/scale.go v1.1.56/go.mod h1:wis32VZLjF7pwGk9/10piwybV1CGqQXQqr/9lvEAz0A=
+github.com/kaigedong/substrate-api-rpc v0.4.13-0.20220421080402-470064ac77b5 h1:aRBlNwFqrTXLGAoYcVrd9Dj6JGc6F8gi19flZoKc3I0=
+github.com/kaigedong/substrate-api-rpc v0.4.13-0.20220421080402-470064ac77b5/go.mod h1:SYsvIBE7tUwHPVByyZnerCTYVTCGH8G0unQ9+IwG9Wk=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.2 h1:DB17ag19krx9CFsz4o3enTrPXyIXCl+2iCXH/aMAp9s=
 github.com/konsorten/go-windows-terminal-sequences v1.0.2/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=

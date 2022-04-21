@@ -26,4 +26,4 @@ GPL-3.0
 ## Resource
 
 - [subscan-essentials] https://github.com/itering/subscan-essentials
-- [substrate-api-rpc] https://github.com/itering/substrate-api-rpc
+- [substrate-api-rpc] https://github.com/kaigedong/substrate-api-rpc
